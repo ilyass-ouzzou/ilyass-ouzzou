@@ -23,7 +23,6 @@
 ---
 
 ### 📈 GitHub Stats:
-![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyass-ouzzou&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-ouzzou&layout=compact&theme=radical)
 
 ---
